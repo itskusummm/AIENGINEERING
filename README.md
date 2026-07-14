@@ -1,7 +1,6 @@
 # 🚀 AI Engineering & Machine Learning Journey
 
-Welcome to my learning diary! I am documenting my 12-week intensive journey at **[Saarathi Academy](https://saarathiacademy.com.np/ai-engineering-and-machine-learning-course-in-nepal)**. 
-
+Welcome to my learning diary! I am documenting my 12-week intensive journey.
 This repository tracks my progress from Python foundations to building, evaluating, and deploying production-grade AI systems.
 
 ---
